@@ -16,6 +16,12 @@ export default function HomePage() {
       image: "/products/sunset-lamp.png",
       url: "https://amzn.to/46WqIB8",
     },
+    {
+      name: "Panda Night Light for Kids- Rechargeable Silicone LED Lamp, 7-Color Changing, Perfect Room Decor & Gift for Toddler, Children, Women, Cute Diwali Gift, White",
+      price: "₹399",
+      image: "/products/panda.png",
+      url: "https://amzn.to/4nVBzCs",
+    },
   ];
 
   return (
