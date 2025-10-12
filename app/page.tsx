@@ -22,6 +22,12 @@ export default function HomePage() {
       image: "/products/panda.png",
       url: "https://amzn.to/4nVBzCs",
     },
+    {
+      name: "Glass Tea Pot with Stainless Steel Infuser || Large Capacity Transparent Tea Kettle with Lid & Handle",
+      price: "₹299",
+      image: "/products/teapot.png",
+      url: "https://amzn.to/47rJS2f",
+    },
   ];
 
   return (
