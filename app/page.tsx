@@ -28,6 +28,18 @@ export default function HomePage() {
       image: "/products/teapot.png",
       url: "https://amzn.to/47rJS2f",
     },
+    {
+      name: "LED Table Lamp – 16 Color Changing Touch Night Light with Remote, USB Rechargeable Lamp for Bedroom",
+      price: "₹289",
+      image: "/products/roomlamp.png",
+      url: "https://amzn.to/4n9nYGC",
+    },
+    {
+      name: "Astronaut Galaxy Projector Night Light – 360° Rotating Nebula Star Projector with Remote Control, Timer & Adjustable Head",
+      price: "₹449",
+      image: "/products/astronout.png",
+      url: "https://amzn.to/4or3v1f",
+    },
   ];
 
   return (
